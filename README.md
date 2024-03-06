@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving%color=auto%%eight=150%%ection=hea%er&fontSize=30&animation=twinkling%text=AI%Drug%%Discovery!!)
+![header](https://capsule-render.vercel.app/api?type=waving%color=auto%%eight=150%%ection=hea%er&fontSize=30&animation=twinkling%text=AI%Drug%%Discovery!!)
 
 
 <!--
