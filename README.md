@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/kangjongbeom/kangjongbeom/assets/144650931/93226fc6-04fc-4546-9359-4f03cde0cc5d)
 
 <!--
 **kangjongbeom/kangjongbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
