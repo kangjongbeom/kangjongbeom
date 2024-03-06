@@ -1,6 +1,6 @@
-### Hi there 👋
+![](https://capsule-render.vercel.app/api?section=footer)
 
-#3776AB
+
 <!--
 **kangjongbeom/kangjongbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
