@@ -6,4 +6,4 @@
 - 📧 My E-mail : whdqja99@ajou.ac.kr
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:whdqja99@ajou.ac.kr)](mailto:whdqja99@ajou.ac.kr)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/eef7a615c4f24d1b8bae47bdb1e7f287)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://useful-thunder-0cf.notion.site/eef7a615c4f24d1b8bae47bdb1e7f287?pvs=4)
